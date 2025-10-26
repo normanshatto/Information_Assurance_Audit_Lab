@@ -1,7 +1,7 @@
 Information Assurance Audit Lab
 
 Author: Norman Shatto  
-Framework: NIST 800-53 (Selected Controls)  
+Framework: NIST 800-53 
 Tools Used: Windows 11, PowerShell, Event Viewer, Command Prompt, Firewall Manager  
 
 Project Overview:
